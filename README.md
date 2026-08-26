@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1> Hello Devs</h1>
+<h2> Welcome to my profile</h2>
 
-<!--
-**pietracode/pietracode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+<img width="350" height="350" alt="capa" src="https://github.com/user-attachments/assets/eaa0375f-739c-4da9-b3c7-48e50595df4d" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> Hi there! I'm a 19-year-old Information Systems student. This profile is dedicated to my university projects and study notes.</p>
+
+<h2> 🛠️ Languages and tools I'm currently learning: </h2>
+
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="40" alt="git" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="html" hspace="10" />
+</p>
