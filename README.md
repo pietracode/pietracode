@@ -18,4 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="html" hspace="10" />
 </p>
 
-![Snake animation](https://github.com/pietracode/pietracode/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pietracode/pietracode/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
